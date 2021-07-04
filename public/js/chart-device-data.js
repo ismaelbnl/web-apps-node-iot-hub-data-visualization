@@ -69,7 +69,7 @@ $(document).ready(() => {
       },
       {
         fill: false,
-        label: 'Proximity',
+        label: 'Humidity',
         yAxisID: 'Proximity',
         borderColor: 'rgba(24, 120, 240, 1)',
         pointBoarderColor: 'rgba(24, 120, 240, 1)',
