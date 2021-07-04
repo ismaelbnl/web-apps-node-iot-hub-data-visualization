@@ -70,7 +70,7 @@ $(document).ready(() => {
       {
         fill: false,
         label: 'Humidity',
-        yAxisID: 'Proximity',
+        yAxisID: 'Humidity',
         borderColor: 'rgba(24, 120, 240, 1)',
         pointBoarderColor: 'rgba(24, 120, 240, 1)',
         backgroundColor: 'rgba(24, 120, 240, 0.4)',
@@ -96,7 +96,7 @@ $(document).ready(() => {
         id: 'Humidity',
         type: 'linear',
         scaleLabel: {
-          labelString: 'Proximity',
+          labelString: 'Humidity (%)',
           display: true,
         },
         position: 'right',
