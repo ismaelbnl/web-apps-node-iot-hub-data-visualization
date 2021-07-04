@@ -96,7 +96,7 @@ $(document).ready(() => {
         id: 'Humidity',
         type: 'linear',
         scaleLabel: {
-          labelString: 'Humidity (%)',
+          labelString: 'Proximity',
           display: true,
         },
         position: 'right',
